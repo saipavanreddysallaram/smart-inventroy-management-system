@@ -1,0 +1,1 @@
+# smart-inventroy-management-system
